@@ -110,6 +110,7 @@ h2 {
 }
 
 .skill {
+  background-color: silver;
   border: 1px solid white;
   display: block;
   border-radius: 6px;
