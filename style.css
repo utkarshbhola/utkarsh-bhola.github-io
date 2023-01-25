@@ -193,7 +193,7 @@ h2 {
   text-align: left;
   width: 21.875rem;
   padding: 1rem;
-  background-color: #fff;
+  background-color: silver;
   border-radius: 11px;
   box-shadow: 0 3px 10px var(--primary-shadow);
   padding: 20px;
@@ -204,7 +204,7 @@ h2 {
 }
 
 .recommendation span {
-  color: #FFFFFF;
+  color: silver;
   font-size: 20px;
   font-family: 'Times New Roman', Times, serif;
 }
@@ -215,7 +215,7 @@ h2 {
   width: 48px;
   height: 48px;
   border-radius: 100%;
-  background-color: #FFFFFF;
+  background-color: silver;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -304,9 +304,9 @@ button {
 }
 
 button:hover {
-  background-color: #FFFFFF;
-  border: 1px solid #FFFFFF;
-  color: #fff;
+  background-color: 	#a9a9a9;
+  border: 1px solid 	#a9a9a9;
+  color: 	#a9a9a9;
   display: block;
   border-radius: 6px;
   text-align: center;
