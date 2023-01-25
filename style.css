@@ -47,6 +47,10 @@ body {
   align-items: center;
   flex-direction: row;
 }
+.contact_info {
+  margin :5px;
+
+}
 
 
 /* Titles */
