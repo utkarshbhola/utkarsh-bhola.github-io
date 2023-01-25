@@ -6,7 +6,7 @@ body {
 /* Navigation Bar */
 
 #home {
-  background-color:  #FFFFFF;
+  background-color:  #000000;
   padding-bottom: 1cm;
   margin-left:-1cm;
   margin-right:-1cm;
@@ -17,7 +17,7 @@ body {
  }
 
 .topmenu {
-  color: black;
+  color: white;
   margin: 10px;
   padding: 20px;
   font-size: 20px;
@@ -41,15 +41,11 @@ body {
 }
 
 .profile_name  {
-  font-size: 15px;
+  font-size: 5px;
   font-style: italic;
   display: flex;
-  align-items: center;
+  align-items: left;
   flex-direction: row;
-}
-.contact_info {
-  margin :5px;
-
 }
 
 
