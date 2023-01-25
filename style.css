@@ -35,6 +35,7 @@ body {
 }
 
 .profile_name {
+  color: white;
   float: left;
   padding-left: 2cm;
   /* Add the styles here */
@@ -43,6 +44,7 @@ body {
 .profile_name  {
   font-size: 5px;
   font-style: italic;
+  color: white;
   display: flex;
   align-items: left;
   flex-direction: row;
